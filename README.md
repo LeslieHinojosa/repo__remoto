@@ -5,8 +5,7 @@ Pronto un libro colaborativo.
 
 Los programas están en la carpeta source
 
-![](doc/SSE.jpeg)
+![](doc/SSE.jpg)
 
-hola
 
 
