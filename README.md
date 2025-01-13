@@ -1,3 +1,9 @@
-# repo__remoto
+# Curso de estadística en R 
 
-Recuperado
+Este repositorio contiene los programas de R usados durante el curso. 
+Pronto un libro colaborativo. 
+
+Los programas están en la carpeta source
+
+![](doc/SSE.jpeg)
+
